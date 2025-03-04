@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rk_testpoc.app",
+      "sha256_cert_fingerprints": [
+        "6F:C9:CB:33:57:6C:9C:15:CF:F7:A2:12:E9:84:80:39:BF:7B:58:09:48:FD:7E:8D:F8:64:2E:DA:9B:7E:47:81",
+        "45:0B:4A:F6:D0:78:46:14:0E:03:DF:B3:B3:3C:92:1B:CE:C9:73:88:A9:04:33:12:E3:E5:BD:27:2A:AD:7A:9B"
+      ]
+    }
+  }
+]
